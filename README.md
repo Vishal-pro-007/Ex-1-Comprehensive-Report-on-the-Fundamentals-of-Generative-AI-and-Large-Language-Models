@@ -64,4 +64,4 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 Output:
-https://drive.google.com/file/d/187VkzdovemtLPG-I-ymkG5LvRxjRPYmv/view?usp=drive_link
+https://drive.google.com/file/d/187VkzdovemtLPG-I-ymkG5LvRxjRPYmv/view?usp=sharing
